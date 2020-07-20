@@ -8,6 +8,7 @@
   <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -26,7 +27,11 @@
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="FindModal">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="GotoNextError" />
+  <action id="MethodHierarchy" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="f2" />
